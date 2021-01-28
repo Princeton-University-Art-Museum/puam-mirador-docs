@@ -31,7 +31,7 @@ Many Museum objects have multiple images that are grouped together in Mirador. W
 
 ### Accessing Object Data
 
-![](../.gitbook/assets/info-sidebar.gif)
+![Opening and closing the information panel](../.gitbook/assets/info-sidebar.gif)
 
 Along with high-resolution images, the Museum provides basic cataloguing data for it's objects in Mirador. This can be toggled on/off using the control at the upper right corner of the window.
 
