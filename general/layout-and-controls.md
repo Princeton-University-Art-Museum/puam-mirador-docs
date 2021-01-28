@@ -6,7 +6,7 @@ description: >-
 
 # Layout and Controls
 
-![](../.gitbook/assets/screenshot_2021-01-27-princeton-university-art-museum-collection-viewer.png)
+![](../.gitbook/assets/screenshot_2021-01-28-princeton-university-art-museum-collection-viewer-1-.png)
 
 
 
