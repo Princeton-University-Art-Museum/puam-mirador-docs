@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Mirador Image Viewer](README.md)
+* [Quick Reference](quick-reference.md)
 
 ## General
 

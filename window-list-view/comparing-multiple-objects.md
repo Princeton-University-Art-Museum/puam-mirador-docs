@@ -4,7 +4,7 @@ The List View configuration of Mirador allows for the side-by-side comparison of
 
 ![Adding an object in list view](../.gitbook/assets/compare-1.gif)
 
-Next, select the Add Resource button in the top left \(which will have replaced the Start Here button\) in order to go back to the object list. At this point, the user can select a second object to add to the viewing window. By default the window will split on a vertical axis, with each object occupying 50% of the available space. This process can be repeated for as many objects as desired, with each added object taking up 50% of the space of the one added previously. 
+Next, select the Add Resource button in the top left \(which will have replaced the Start Here button\) in order to go back to the object list. At this point, the user can select a second object to add to the viewing window. By default the window will split on a vertical axis, with each object occupying 50% of the available space. This process can be repeated for as many objects as desired, with each added object taking up 50% of the space of the one added previously.
 
 ![Adding a second object for comparison in list view](../.gitbook/assets/compare-2.gif)
 
