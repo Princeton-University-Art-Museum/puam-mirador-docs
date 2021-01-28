@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Mirador Image Viewer](README.md)
+* [Quick Reference](quick-reference.md)
 
 ## General
 
@@ -28,8 +29,4 @@
 * [About IIIF](other/about-iiif.md)
 * [Working Across Collections](other/working-across-collections.md)
 * [Annotations](other/annotations.md)
-
----
-
-* [Quick Reference](quick-reference.md)
 
