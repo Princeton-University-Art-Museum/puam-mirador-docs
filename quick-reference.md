@@ -10,7 +10,9 @@
 
 * To zoom in on an image, double-click on the point to which you'd like to zoom 
 * To zoom out from a point, hold the shift key and double-click on the image 
-* To pan an image horizontally or vertically, single-click on the image and while holding the mouse button down, drag in the desired direction
+* To pan an image horizontally or vertically, single-click on the image and while holding the mouse button down, drag in the desired direction 
+* To cycle through multiple views, use the previous/next buttons at the bottom of the window ![](.gitbook/assets/screen-shot-2021-01-28-at-9.55.01-am.png)  
+* To view thumbnails or switch to gallery view, click the views and thumbnails icon in the upper right ![](.gitbook/assets/screen-shot-2021-01-28-at-9.56.25-am.png)
 
 ####  
 
