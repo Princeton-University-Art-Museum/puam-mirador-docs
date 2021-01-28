@@ -7,7 +7,7 @@ description: >-
 
 # Working with Images
 
-### Zoom In / Zoom Out
+## Zoom In / Zoom Out
 
 ![An example of zooming into a point and back out](../.gitbook/assets/zoom-small.gif)
 
@@ -15,7 +15,7 @@ In order to zoom in on an image using only the mouse, hover the mouse cursor ove
 
 Keyboard: The keyboard shortcuts for zoom in/out are _shift + up/down arrow._
 
-### Pan
+## Pan
 
 ![An example of zooming in and panning across an image](../.gitbook/assets/pan.gif)
 
@@ -23,13 +23,13 @@ In addition to zoom, Mirador enables the user to pan across images, particularly
 
 Keyboard shortcuts for pan are the arrow keys.
 
-### Navigating Multiple Images
+## Navigating Multiple Images
 
 ![Cycling images using the previous/next controls](../.gitbook/assets/multiple-images.gif)
 
 Many Museum objects have multiple images that are grouped together in Mirador. While the first image displayed will always be the primary view of the object, additional images can be accessed and cycled through using the previous/next buttons located at the bottom of the window.
 
-### Accessing Object Data
+## Accessing Object Data
 
 ![](../.gitbook/assets/info-sidebar.gif)
 
