@@ -1,6 +1,6 @@
 # Adding and Removing Objects
 
-Upon first opening Mirador in a list view configuration, the user will be presented with an empty image viewing window. Upon clicking the "Start Here" button in the top left corner of the window, the screen will change to a list of available objects for this Mirador viewer. Selecting an object from the list will then add it to the viewer window, and the view will change to the familiar high-resolution image display.
+Upon first opening Mirador in a list view configuration, the user will be presented with an empty image viewing window. Upon clicking the "Start Here" button in the top left corner of the window, the screen will change to a list of available objects for this Mirador viewer. Selecting an object from the list will then add it to the viewer window, and the view will change to the familiar high-resolution image display. 
 
 ![Adding an object to the viewer window](../.gitbook/assets/adding-object.gif)
 

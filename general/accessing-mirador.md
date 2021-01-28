@@ -10,3 +10,5 @@ The Museum supports several different configurations of Mirador optimized for di
 * [Package View](../package-view/untitled.md)
 * [List View](../window-list-view/overview.md)
 
+
+
