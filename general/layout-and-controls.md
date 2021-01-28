@@ -8,5 +8,3 @@ description: >-
 
 ![](../.gitbook/assets/screenshot_2021-01-27-princeton-university-art-museum-collection-viewer.png)
 
-
-
