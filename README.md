@@ -28,8 +28,6 @@ As an open-source software project, Mirador is under continual development and n
 
   * [Overview](package-view/untitled.md)
 
-  \*\*\*\*
-
 * **List View**
   * [Overview](window-list-view/overview.md)
   * [Adding and Removing Objects](window-list-view/adding-and-removing-objects.md)
