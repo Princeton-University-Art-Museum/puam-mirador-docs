@@ -26,7 +26,7 @@ As an open-source software project, Mirador is under continual development and n
   * [Overview](single-object-view/untitled.md)
 * **Package View**
 
-  * [Overview _\*\*_](package-view/untitled.md)\*\*\*\*
+  * [Overview](package-view/untitled.md)
 
   \*\*\*\*
 
